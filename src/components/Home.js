@@ -8,7 +8,7 @@ const Home = () => {
     <div>
       <div className="main">
         <div className="main_content">
-        <h1 className="charitopia-title">Charitopia</h1>
+        <h1 className="charitopia-title">ServeHub</h1>
         <p className="charitopia-subtitle">A Utopia of Giving and Hope</p>
           <h2>“Giving is not just about making a donation. It is about making a difference.”
             <br />
